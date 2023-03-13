@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anıl Ağhan</h1>
 <h3 align="center">I'am a Software Developer</h3>
 
-- 🌱 I’m currently learning **Kafka**
+I am a Software Developer and i am into backend development with Java. I love learning new Technologies and tools. I hava a decade of work experience with various sectors and different positions. I am quick learner with collaborative skills. I am an open souce enthusiast always happy to contribute society in anyways. Always motivated and excited for new upcoming challenges.
 
-- 📫 How to reach me **anilaghan@gmail.com**
+
+- 🔭 I’m currently working on **Java, Springboot** projects also learning programs
+- 🌱 I’m currently learning Microservices architecture, Kafka etc.
+- 📫 How to reach me **anilaghan@gmail.com** and @anilaghan from Twitter
+- ⚡ Fun fact I'm a cat lover and brewing own beer. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

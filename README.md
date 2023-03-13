@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anıl Ağhan</h1>
 <h3 align="center">I'am a Software Developer</h3>
 
-I'm into backend development with Java. I love learning new Technologies and tools. I hava a decade of work experience with various sectors and different positions. I am quick learner with collaborative skills. I am an open souce enthusiast always happy to contribute society in anyways. Always motivated and excited for new upcoming challenges.
+I'm into backend development with Java. I love learning new Technologies and tools. I am quick learner with collaborative skills. I am an open souce enthusiast always happy to contribute society in anyways. Always motivated and excited for new upcoming challenges.
 
 
 - 🔭 I’m currently working on **Java, Springboot** projects also learning programs
